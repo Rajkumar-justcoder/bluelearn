@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.flex-box{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+.cards{
+    display: flex;
+}
+.cards div{
+    flex-direction: column;
+}
+.card>img{
+    width: 100%;
+}
+.cpadding{
+    padding-right: 8px;
+}
