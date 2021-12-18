@@ -1,0 +1,72 @@
+	bookrestro.com
+
+reasturant
+
+	login signup
+
+home page
+ 
+	display reast
+		time 
+		location
+		avalablie table
+		reatings/review
+
+
+	filter btn 
+		lowest
+		heighet
+		medium
+
+	search
+		veg or non veg
+	
+
+booking page
+
+	banner
+	reatings
+	time/date slot
+	number of people
+	email id
+	location
+	review section
+	min cost / avarage cost
+	direct contact
+	timer after odering 20m
+
+
+profile page
+
+	name
+	address
+	email id
+	phone no
+
+booked page
+
+	rest  name
+	time slot
+	date
+	no of people
+	email id
+	phone no
+
+
+after booking succesfull
+
+	send msg to take feedback
+	
+
+rest register
+
+	name
+	res name 
+	email
+	phone no
+	res no
+	address
+	menu pdf/image
+	res img/banner
+	time of open and close
+	no of table
