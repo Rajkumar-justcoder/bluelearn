@@ -7,12 +7,6 @@
     justify-content: center;
     align-content: center;
 }
-.cards{
-    display: flex;
-}
-.cards div{
-    flex-direction: column;
-}
 .card>img{
     max-width: 350px;
     width: 100%;
@@ -29,19 +23,19 @@
     margin: 0 auto
 }
   
-h1 {
+.main h1 {
       font-size: 24px;
       font-weight: 400;
       text-align: center
 }
   
-img {
+.main img {
     height: auto;
     max-width: 90%;
     vertical-align: middle
 }
   
-.btn {
+.card-btn {
   color: #ffffff;
   padding: 0.8rem;
   font-size: 14px;
@@ -55,7 +49,7 @@ img {
   background: transparent
 }
   
-.btn:hover {
+.card-btn:hover {
   background-color: rgba(255, 255, 255, 0.12)
 }
 
@@ -84,7 +78,7 @@ img {
   }
 }
 
-.card {
+.card{
   background-color: white;
   border-radius: 0.25rem;
   box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
